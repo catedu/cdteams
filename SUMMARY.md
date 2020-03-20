@@ -1,18 +1,24 @@
 # Summary
 
 * [Comunicación docente a distancia: Teams](README.md)
-* [Módulo 1: Uso eficiente de Email y Chats.](modulo_1_uso_eficiente_de_email_y_chats/README.md)
-  * [Unidad 1. Optimizar el correo electrónico](modulo_1_uso_eficiente_de_email_y_chats/unidad_1_optimizar_el_correo_electronico.md)
-  * [](modulo_1_uso_eficiente_de_email_y_chats/.md)
-  * [Unidad 2. Chatear](modulo_1_uso_eficiente_de_email_y_chats/unidad_2_chatear.md)
-* [](.md)
-* [](.md)
-* [Módulo 2: Plataformas de colaboración y coordinación docente online: Slack y Trello](modulo_2_plataformas_de_colaboracion_y_coordinacio/README.md)
-  * [Unidad 1. Slack. ](modulo_2_plataformas_de_colaboracion_y_coordinacio/unidad_1_slack.md)
-  * [Unidad 2: Trello](modulo_2_plataformas_de_colaboracion_y_coordinacio/unidad_2_trello.md)
-* [](.md)
-* [Módulo 3: Documentos compartidos en Google Drive](modulo_3_documentos_compartidos_en_google_drive.md)
-* [Módulo 4: Video llamadas y emisiones en directo, streamings: Youtube y Hangouts](modulo_4_video_llamadas_y_emisiones_en_directo,_st.md)
-* [Módulo 5: Documentos compartidos en Office 365](modulo_5_documentos_compartidos_en_office_365.md)
-* [Módulo 6: Video llamadas y emisiones en directo, streamings: Teams](modulo_6_video_llamadas_y_emisiones_en_directo,_st.md)
-* [](.md)
+
+---
+
+## Módulo 1: Uso eficiente de Email y Chats.
+[Unidad 1. Optimizar el correo electrónico](unidad_1_optimizar_el_correo_electronico.md)
+[Unidad 2. Chatear](unidad_2_chatear.md)
+
+---
+
+## Módulo 2: Plataformas de colaboración y coordinación docente online: Slack y Trello
+
+[Introducción](READMEM2.md)
+[Unidad 1. Slack. ](unidad_1_slack.md)
+[Unidad 2: Trello](unidad_2_trello.md)
+
+---
+##Módulo 3: Documentos compartidos en Office 365
+
+---
+
+## Módulo 4: Video llamadas y emisiones en directo, streamings: Teams
