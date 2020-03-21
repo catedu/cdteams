@@ -55,7 +55,7 @@ Lo primero debemos ir a la página web de la aplicación (Slack) y iniciar el pr
 
 El primer paso que debemos dar es registrarnos en la plataforma, para ello vamos a [Slack](https://www.google.com/url?q=https://slack.com/intl/es-es/&sa=D&ust=1584707445712000) y hacemos clic en “Primeros Pasos” o el botón de “Prueba Slack”, los dos nos conducirán a otra pantalla, donde nos plantea dos opciones. La primera, si mi equipo ya está en Slack, elegiremos la primera opción. De lo contrario, elegimos la segunda opción, para crear la cuenta y el equipo desde cero. Después de darle a confirmar, nos Slack nos enviará un código de 6 números al correo que hayamos dado. Vamos al correo, copiamos los números, los pegamos en la web de Slack y seguimos el proceso de creación de la cuenta.
 
-![Imagen 1. Ingreso en Slack. Elaboración propia.](images/image80.gif)
+![Imagen 1. Ingreso en Slack. Elaboración propia.](https://rawcdn.githack.com/catedu/cdteams/ab76ad003166dd893136c3eddda0b3f5cf08e2b6/images/image80.gif)
 
 ![Imagen 2. Ingreso en Slack con código enviado. Elaboración propia.](images/image63.png)
 
@@ -65,7 +65,7 @@ b) **Nombre del equipo de trabajo y del proyecto**.
 
 Todavía tenemos ni cuenta ni espacio ni grupo alguno en Slack, por eso al elegir esta opción nos envía a una primera página en la que debemos poner el nombre de nuestro equipo (en el que vamos a trabajar todos los miembros del equipo). Le damos a continuar y seguidamente nos lleva a una pantalla para que especifiquemos el nombre del proyecto en el que estamos trabajando (se pueden crear más adelante nuevos proyectos, por el momento, para aprender crearemos solamente uno)
 
-![Imagen 3. Nombre de equipo y proyecto. Elaboración propia](images/image2.gif)
+![Imagen 3. Nombre de equipo y proyecto. Elaboración propia](https://rawcdn.githack.com/catedu/cdteams/ab76ad003166dd893136c3eddda0b3f5cf08e2b6/images/image2.gif)
 
 
 c) **Invitación al espacio de trabajo de otros miembros del grupo de trabajo**.
@@ -74,7 +74,7 @@ En este apartado podemos invitar a tantas personas como queramos, siempre que te
 
 Si lo preferimos, podemos omitir este paso para hacerlo más adelante.
 
-![](images/image85.gif)
+![](https://rawcdn.githack.com/catedu/cdteams/ab76ad003166dd893136c3eddda0b3f5cf08e2b6/images/image85.gif)
 
 Imagen 4\. Envío de invitaciones a miembros. Elaboración propia.
 
@@ -210,24 +210,24 @@ Seguidamente, nuestra cuenta estará conectada a ese otro espacio de trabajo. De
 
 **Opción 1. Cambiar la cuenta desde el navegador**.
 
-![](images/image82.gif)
+![](https://rawcdn.githack.com/catedu/cdteams/ab76ad003166dd893136c3eddda0b3f5cf08e2b6/images/image82.gif)
 Imagen 14. Cambiar de espacio desde la aplicación de navegador. Elaboración propia
 
 **Opción 2. Cambiar de cuenta desde la aplicación de escritorio**.
 
-![](images/image42.gif)
+![](https://rawcdn.githack.com/catedu/cdteams/ab76ad003166dd893136c3eddda0b3f5cf08e2b6/images/image42.gif)
 Imagen 15. Cambiar de espacio desde la aplicación de escritorio. Elaboración propia.
 
 **Opción 3. Cambiar de cuenta desde la aplicación de móvil**.
 
-![](images/image5.gif)
+![](https://rawcdn.githack.com/catedu/cdteams/ab76ad003166dd893136c3eddda0b3f5cf08e2b6/images/image5.gif)
 Imagen 16. Cambiar de espacio desde la aplicación de movil. Elaboración propia.
 
 #### 2.2. La administración de un espacio de trabajo 
 
 Cuando accedemos al área de administración del espacio del trabajo, accederemos a una página de configuración que tiene cuatro pestañas de gestión en la parte superior (“Ajustes”, “Permisos”, “Autentificación” y “Adjuntos”) que nos lleva a cuatro configuraciones diferentes.
 
-![](images/image40.gif)
+![](https://rawcdn.githack.com/catedu/cdteams/ab76ad003166dd893136c3eddda0b3f5cf08e2b6/images/image40.gif)
 Imagen 17. Administración. Elaboración propia.
 
 ##### 2.2.1. Ajustes 
@@ -238,7 +238,7 @@ En este apartado podemos cambiar la configuración de algunos parámetros import
 * **Nombre y Correo**: Podremos configurar el nombre con el que deseamos aparecer. También podremos permitir o no que los usuarios puedan ver nuestro correo electrónico.
 *** Icono de espacio de trabajo**: En esta sección podemos cambiar el icono del espacio del trabajo. Sólo necesitamos expandir este apartado, y hacer clic en el botón “seleccionar icono”. Se abrirá nuestro explorador de archivos. Seleccionamos la imagen. Seguidamente, le damos al botón “subir icono”. Seguidamente aparecerá nuestra nueva imagen de grupo.
 
-![](images/gif58re.gif)
+![](https://github.com/catedu/cdteams/blob/master/https://rawcdn.githack.com/catedu/cdteams/ab76ad003166dd893136c3eddda0b3f5cf08e2b6/images/gif58%20re.gif)
 Imagen 18. Sección de Ajuste. Elaboración propia.
 
 ##### 2.2.2. Permisos {#2-2-2-permisos}
@@ -272,13 +272,13 @@ Un canal es un espacio donde los equipos comparten mensajes y archivos. Es neces
 
 Ya seas propietario o uno de los miembros, puedes crear un canal. Crear un canal es muy sencillo, en la barra de herramientas lateral, al lado de la sección “Canales” observaras un (+). Haz clic en el (+), te aparecerá una ventana en la que deberás de especificar el nombre del canal, una descripción (si así lo deseas) y puedes elegir entre crear un canal público o privado..
 
-![](images/image26.gif)
+![](https://rawcdn.githack.com/catedu/cdteams/ab76ad003166dd893136c3eddda0b3f5cf08e2b6/images/image26.gif)
 Imagen 19\. Crear un canal nuevo. Elaboración propia
 
 ##### 3.1.3. Cómo puedo añadir personas a un canal específico {#3-1-3-c-mo-puedo-a-adir-personas-a-un-canal-espec-fico}
 
 Los miembros del equipo pueden añadir personas a los canales de formas muy diversas. La más sencilla es ir al canal, y hacer clic donde se especifica la posibilidad de “anadir gente”. Seguidamente aparece una ventana emergente donde en el único campo que aparece escribimos el correo electrónico (pueden ser más de uno, siempre separados por comas) y le damos al botón de “añadir”.
-![](images/image31.gif)
+![](https://rawcdn.githack.com/catedu/cdteams/ab76ad003166dd893136c3eddda0b3f5cf08e2b6/images/image31.gif)
 
 Imagen 20. Añadir personas a un canal. Elaboración propia
 
@@ -288,7 +288,7 @@ Los canales pueden ser abiertos, cualquier usuario puede participar en la conver
 
 **Nota**: por cuestiones de privacidad un canal privado no podrá modificarse para que sea público.
 
-![](images/image7.gif)
+![](https://rawcdn.githack.com/catedu/cdteams/ab76ad003166dd893136c3eddda0b3f5cf08e2b6/images/image7.gif)
 Imagen 21. Convertir un canal en privado. Elaboración propia
 
 ##### 3.1.5. Cómo eliminar a un miembro del canal {#3-1-5-c-mo-eliminar-a-un-miembro-del-canal}
@@ -327,28 +327,28 @@ Imagen 22 A. Crear un hilo. Elaboración propia.
 
 Los hilos de los mensajes te ayudan a mantener las conversaciones organizadas y centradas en un tema dentro de los canales. Son muy útiles para evitar sobresaturar el canal con mensajes.
 
-![](images/gif67re.gif)
+![](https://rawcdn.githack.com/catedu/cdteams/ab76ad003166dd893136c3eddda0b3f5cf08e2b6/https://rawcdn.githack.com/catedu/cdteams/ab76ad003166dd893136c3eddda0b3f5cf08e2b6/images/gif 67re.gif)
 Imagen 22 B. Crear un hilo. Elaboración propia.
 
 ##### 3.2.3. Compartir mensajes en Slack {#3-2-3-compartir-mensajes-en-slack}
 
 Compartir mensajes en Slack es una tarea sencilla. Sólo debemos hacer clic encima del mensaje. Aparecerá a la derecha un menú secundario. Seleccionamos el icono de la flecha (⇨) para proceder al reenvío. Podemos compartir el mensaje en otro canal o con un usuario. Lo seleccionamos y le damos a compartir.
 
-![](images/image10.gif)
+![](https://rawcdn.githack.com/catedu/cdteams/ab76ad003166dd893136c3eddda0b3f5cf08e2b6/images/image10.gif)
 Imagen 23. Compartir mensajes en Slack. Elaboración propia.
 
 ##### 3.2.4. Editar-Eliminar mensajes {#3-2-4-editar-eliminar-mensajes}
 
 Eliminar mensajes en Slack es una tarea sencilla. Sólo debemos hacer clic encima del mensaje. Aparecerá a la derecha un menú secundario. Seleccionamos el icono del menú de tres puntos. Aparecerá un submenú, y al final de la lista de la lista aparecerá en color rojo “Eliminar este mensaje”. Seguidamente aparece una ventana emergente en el que nos pedirá que confirmemos su eliminación haciendo clic en el botón “Eliminar”.
 
-![](images/image8.gif)
+![](https://rawcdn.githack.com/catedu/cdteams/ab76ad003166dd893136c3eddda0b3f5cf08e2b6/images/image8.gif)
 Imagen 24.Editar-eliminar mensajes en Slack. Elaboración propia.
 
 ##### 3.2.5. Fijar mensajes. {#3-2-5-fijar-mensajes}
 
 Fijar mensajes en Slack es una tarea fácil. Sólo debemos hacer clic encima del mensaje. Aparecerá a la derecha un menú secundario. Seleccionamos el icono del menú de tres puntos. Aparecerá un submenú, y seleccionamos la opción “Fijar con una chincheta al canal”. De forma automática el mensaje se fijará, y a la derecha de nuestra pantalla nos aparecerá un entorno de trabajo con varias opciones, entre las cuales aparecen los mensajes fijados.
 
-![](images/image43.gif)
+![](https://rawcdn.githack.com/catedu/cdteams/ab76ad003166dd893136c3eddda0b3f5cf08e2b6/images/image43.gif)
 Imagen 25. Fijar mensajes. Elaboración propia.
 
 ##### 3.2.6. Enviar archivos adjuntos. {#3-2-6-enviar-archivos-adjuntos}
@@ -359,7 +359,7 @@ Enviar archivos adjuntos en los mensajes en Slack es una tarea sencilla. En el c
 
 * En la parte inferior nos ofrece la posibilidad de “Añadir un archivo desde…Tu ordenador”. Hacemos clic, y se abre nuestro explorador de archivos. Seleccionamos el archivo que deseamos (imagen, pdf, etc). Hacemos clic en “abrir”. Se abre una ventana emergente. En ella podemos añadir un texto. También en “Compartir con”, podemos elegir en qué canal o con qué usuario queremos compartir el archivo. Hacemos clic en “Subir”, el archivo se añadirá a la conversación.
 
-![](images/image14.gif)
+![](https://rawcdn.githack.com/catedu/cdteams/ab76ad003166dd893136c3eddda0b3f5cf08e2b6/images/image14.gif)
 Imagen 26. Enviar archivos adjuntos y mensajes. Elaboración propia.
 
 #### 3.3. Las videollamadas {#3-3-las-videollamadas}
@@ -401,7 +401,7 @@ Slack no nos da unas normas de uso. Somos nosotros como quienes debemos establec
 
 En Slack puedes añadir a tu espacio de trabajo algunas aplicaciones de terceros o herramientas que quizá ya utilizas. Sólo hay que ir al Directorio de Aplicaciones de Slack y allí encontrarás una gran cantidad de aplicaciones que os ayudarán a trabajar de forma eficiente. De forma predefinida, la aplicación nos permite incorporar aplicaciones como el “Google Calendar” o “Drive de google”. Si seleccionamos “añadir más aplicaciones”, podremos elegir un amplio abanico de aplicaciones como Dropbox, Box, Giphy, Twitter, Trello, Github y algunos productos de Microsoft (calendario u Outlook).
 
-![](images/gif59re.gif)
+![](https://rawcdn.githack.com/catedu/cdteams/ab76ad003166dd893136c3eddda0b3f5cf08e2b6/https://rawcdn.githack.com/catedu/cdteams/ab76ad003166dd893136c3eddda0b3f5cf08e2b6/images/gif59re.gif)
 Imagen 27. Conectar aplicaciones en Slack. Elaboración propia.
 
 NOTA: Dentro de las aplicaciones que tenemos para instalar, os recomendamos una que puede hacer más interactivo vuestros canales. Se llama Simple Poll y nos permite crear cuestionarios para compartir con los miembros de un canal, o varios canales. En la imagen anterior, se explica su instalación.

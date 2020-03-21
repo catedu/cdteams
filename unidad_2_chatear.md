@@ -33,7 +33,7 @@ Hoy más que nunca es necesario un servicio de mensajería instantánea para com
 
 *   **Comunicación con los padres**. La herramienta facilita que los padres puedan ingresar en la clase y vean la comunicación del profesor con los alumnos y alumnas. La comunicación se puede desarrollar de diversa forma. Lo mejor es limitar la interacción entre el alumnado, y dejar que la comunicación se produzca únicamente de forma bidireccional, entre el profesor y el alumnado.
  
-![](images/image20.gif)
+![](https://rawcdn.githack.com/catedu/cdteams/ab76ad003166dd893136c3eddda0b3f5cf08e2b6/images/image20.gif)
 
 Este es un aspecto positivo ya que impide que la aplicación se convierta en un escenario para hablar de cualquier tema. No es una aplicación para debatir, sirve para comunicarnos con el alumnado, mandar tareas, resolver dudas, etc. y poder resolver dudas de los padres o concertar tutorías con ellos, o alertarlos de cualquier problema que pudiera surgir de una forma rápida.
 
