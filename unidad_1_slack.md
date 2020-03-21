@@ -238,7 +238,7 @@ En este apartado podemos cambiar la configuración de algunos parámetros import
 * **Nombre y Correo**: Podremos configurar el nombre con el que deseamos aparecer. También podremos permitir o no que los usuarios puedan ver nuestro correo electrónico.
 *** Icono de espacio de trabajo**: En esta sección podemos cambiar el icono del espacio del trabajo. Sólo necesitamos expandir este apartado, y hacer clic en el botón “seleccionar icono”. Se abrirá nuestro explorador de archivos. Seleccionamos la imagen. Seguidamente, le damos al botón “subir icono”. Seguidamente aparecerá nuestra nueva imagen de grupo.
 
-![](images/gif58reducido.gif)
+![](images/gif58re.gif)
 Imagen 18. Sección de Ajuste. Elaboración propia.
 
 ##### 2.2.2. Permisos {#2-2-2-permisos}
@@ -327,7 +327,7 @@ Imagen 22 A. Crear un hilo. Elaboración propia.
 
 Los hilos de los mensajes te ayudan a mantener las conversaciones organizadas y centradas en un tema dentro de los canales. Son muy útiles para evitar sobresaturar el canal con mensajes.
 
-![](images/gif67reducido.gif)
+![](images/gif67re.gif)
 Imagen 22 B. Crear un hilo. Elaboración propia.
 
 ##### 3.2.3. Compartir mensajes en Slack {#3-2-3-compartir-mensajes-en-slack}
@@ -401,7 +401,7 @@ Slack no nos da unas normas de uso. Somos nosotros como quienes debemos establec
 
 En Slack puedes añadir a tu espacio de trabajo algunas aplicaciones de terceros o herramientas que quizá ya utilizas. Sólo hay que ir al Directorio de Aplicaciones de Slack y allí encontrarás una gran cantidad de aplicaciones que os ayudarán a trabajar de forma eficiente. De forma predefinida, la aplicación nos permite incorporar aplicaciones como el “Google Calendar” o “Drive de google”. Si seleccionamos “añadir más aplicaciones”, podremos elegir un amplio abanico de aplicaciones como Dropbox, Box, Giphy, Twitter, Trello, Github y algunos productos de Microsoft (calendario u Outlook).
 
-![](images/gif59reducido.gif)
+![](images/gif59re.gif)
 Imagen 27. Conectar aplicaciones en Slack. Elaboración propia.
 
 NOTA: Dentro de las aplicaciones que tenemos para instalar, os recomendamos una que puede hacer más interactivo vuestros canales. Se llama Simple Poll y nos permite crear cuestionarios para compartir con los miembros de un canal, o varios canales. En la imagen anterior, se explica su instalación.
