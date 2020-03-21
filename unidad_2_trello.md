@@ -21,52 +21,14 @@ Aunque no es imprescindible para trabajar con trello, en centros grandes, podemo
 Es necesario completar todos los campos para que se active continuar.
 
 Como veremos más abajo, a la vez o posteriormente, podemos invitar a personas a un tablero, a un equipo o a ambas funciones.
+ 
+![](images/image18.png) {#-0}
 
-### 
-
-### ![](images/image18.png) {#-0}
-
-###  {#-1}
-
-###  {#-2}
-
-###  {#-3}
-
-###  {#-4}
-
-###  {#-5}
-
-###  {#-6}
-
-###  {#-7}
-
-###  {#-8}
-
-###  {#-9}
-
-###  {#-10}
-
-###  {#-11}
-
-###  {#-12}
-
-###  {#-13}
-
-###  {#-14}
-
-###  {#-15}
-
-###  {#-16}
-
-###  {#-17}
-
-###  {#-18}
-
-### Capítulo 2\. Crear un tableros, listas y tarjetas {#cap-tulo-2-crear-un-tableros-listas-y-tarjetas}
+### Capítulo 2. Crear un tableros, listas y tarjetas {#cap-tulo-2-crear-un-tableros-listas-y-tarjetas}
 
 #### Tableros {#tableros}
 
-Nada más fácil que crear un tablero con Trello, desde Crear tablero nuevo (1) añadimos un título, seleccionamos un equipo (no es necesario), decidimos su privacidad y elegimos el aspecto.
+Nada más fácil que crear un tablero con Trello, desde **Crear tablero nuevo** (1) añadimos un título, seleccionamos un equipo (no es necesario), decidimos su privacidad y elegimos el aspecto.
 
 ![](images/image93.png)
 
@@ -104,28 +66,41 @@ Independientemente de la edición que puede hacerse al crear una tarjeta, cada u
 
 Al pulsar, además de editar el texto, aparece un menú emergente que nos permitirá:
 
-*   Editar las tarjetas: modificar el texto y cambiar el color o añadir colores nuevos, pues una misma tarjeta puede tener varios colores.
+*   **Editar** las tarjetas: modificar el texto y cambiar el color o añadir colores nuevos, pues una misma tarjeta puede tener varios colores.
 
 ![](images/image77.png)
 
 ![](images/image91.png)
 
-*   Cambiar o añadir miembros, en cuyo caso aparecerán reseñados en la tarjeta, junto con un ojo que indica si la persona identificada en el tablero sigue esa tarjeta.
+*   **Cambiar o añadir miembros**, en cuyo caso aparecerán reseñados en la tarjeta, junto con un ojo que indica si la persona identificada en el tablero sigue esa tarjeta.
 
 ![](images/image29.png)
 
-*   Mover, que no es muy relevante pues puede hacerse arrastrando con el ratón y, sobre todo Copiar, pues permite que una tarjeta pueda estar en más de una lista a la vez.![](images/image56.png)
-*   Añadir (o cambiar) una fecha de vencimiento, en el caso de que sea necesario tener lista la tarea para un momento dado.
-*   Archivar la tarjeta (cuidado, no pide confirmación).
+*   **Mover**, que no es muy relevante pues puede hacerse arrastrando con el ratón y, sobre todo Copiar, pues permite que una tarjeta pueda estar en más de una lista a la vez.![](images/image56.png)
+*   **Añadir (o cambiar) una fecha de vencimiento**, en el caso de que sea necesario tener lista la tarea para un momento dado.
+*   **Archivar la tarjeta** (cuidado, no pide confirmación).
 
 Pero todavía pueden configurarse más elementos de las tarjetas si hacemos clic sobre cualquiera de ellas, aunque algunas de estas funciones están repetidas, hay otras nuevas que se describen a continuación:
 
+![](images/Selección_904.png)
+
 *   Unirse, a una tarea en concreto, con lo que el usuario se convierte en seguidor de esa tarea (icono ojo).
-*   Ckecklist, que permite asignar a cada tarjeta una lista de cometidos a desarrollar y que aparecerán marcadas con un ✅ en las que tengan lista de control.![](images/image17.png)Cada usuario puede ir marcando los cometidos cumplidos.![](images/image4.png)![](images/image1.png)
-*   Adjuntos desde el ordenador, el propio trello (cada tarjeta tiene su propio vínculo), desde Google Drive, Box, Dropbox o One Drive. Si en una tarjeta aparece un clip, indicará que tiene archivos adjuntos![](images/image69.png)
-*   PowerUps: están limitados a 4 (y tres vienen por defecto), así que es preciso elegir muy bien el cuarto, en mi caso Google Drive, y aunque se configura desde una tarjeta, afecta a todo el tablero y aparece en la parte superior derecha.![](images/image34.png)
-*   Portada: cada tarjeta puede mostrar una imagen de la galería o subida desde nuestro equipo:![](images/image61.png)
-*   Cualquier tarjeta puede compartirse mediante enlace, interna o externamente, embeberse o ser comentadas por correo electrónico (propio de cada tarjeta).![](images/image22.png)
+*   Ckecklist, que permite asignar a cada tarjeta una lista de cometidos a desarrollar y que aparecerán marcadas con un ✅ en las que tengan lista de control.
+![](images/image17.png)
+
+Cada usuario puede ir marcando los cometidos cumplidos.
+
+![](images/image4.png)![](images/image1.png)
+*   Adjuntos desde el ordenador, el propio trello (cada tarjeta tiene su propio vínculo), desde Google Drive, Box, Dropbox o One Drive. Si en una tarjeta aparece un clip, indicará que tiene archivos adjunto.
+
+![](images/image69.png)
+*   PowerUps: están limitados a 4 (y tres vienen por defecto), así que es preciso elegir muy bien el cuarto, en mi caso Google Drive, y aunque se configura desde una tarjeta, afecta a todo el tablero y aparece en la parte superior derecha.
+![](images/image34.png)
+*   Portada: cada tarjeta puede mostrar una imagen de la galería o subida desde nuestro equipo:
+
+![](images/image61.png)
+*   Cualquier tarjeta puede compartirse mediante enlace, interna o externamente, embeberse o ser comentadas por correo electrónico (propio de cada tarjeta).
+![](images/image22.png)
 *   Finalmente, en la zona central, aparecen la edición de una descripción más detallada que complete al enunciado de la tarjeta
 *   Los comentarios, que permiten interactuar con una tarjeta mediante texto escrito, archivo adjunto, emoticono, otra tarjeta de trello...
 
@@ -139,7 +114,7 @@ Si, aprovechando una tarjeta, creamos una plantilla, se incorpora un icono a cad
 
 ![](images/image78.png)
 
-### Capítulo 3\. Visibilidad {#cap-tulo-3-visibilidad}
+### Capítulo 3. Visibilidad {#cap-tulo-3-visibilidad}
 
 ![](images/image36.png)
 
@@ -166,17 +141,20 @@ Quién gestiona los permisos:
 
 Quién puede editar y unirse
 
-### Capítulo 4\. El menú principal {#cap-tulo-4-el-men-principal}
+### Capítulo 4. El menú principal {#cap-tulo-4-el-men-principal}
 
 El menú principal tiene varias capas.
 
-#### Configuración general![](images/image86.png) {#configuraci-n-general}
+#### Configuración general
+![](images/image86.png)
 
 Además de las opciones que resultan obvias, las pegatinas son stikers que pueden introducirse dentro de las tarjetas (para quitarlas basta con posicionarse sobre ellas y esperar a que salga Quitar.
 
 ![](images/image62.png)
 
-#### Más configuraciones![](images/image50.png) {#m-s-configuraciones}
+#### Más configuraciones
+
+![](images/image50.png) 
 
 En ...Más la configuración nos lleva a (como elementos más relevantes):
 
@@ -192,20 +170,21 @@ La parte inferior del menú principal muestra la actividad en orden cronológico
 
 ![](images/image65.png)
 
-### Capítulo 5\. Notas finales {#cap-tulo-5-notas-finales}
+### Capítulo 5. Notas finales {#cap-tulo-5-notas-finales}
 
 #### Butler {#butler}
 
-Todavía se le puede sacar más rendimiento a Trello usando Butler, creando comandos de macro a través de Rules, botones para realizar tareas habituales (enviar al revisor, asignarme…) mediante Card Button, o Borad Button para crear botones comunes a todo el tablero (normalmente tareas de mantenimiento como archivar todos los viernes las tareas de la semana en una lista creada ad hoc…) y otras que están limitadas por la versión gratuita. Sin embargo no las incluimos en este curso dado que excede de su duración y de su funcionamiento básico. Tiempo habrá de investigarlas cuando pasen las premuras que nos ocupan.
+Todavía se le puede sacar más rendimiento a Trello usando **Butler**, creando comandos de macro a través de **Rules**, botones para realizar tareas habituales (enviar al revisor, asignarme…) mediante **Card Button, o Borad Button** para crear botones comunes a todo el tablero (normalmente tareas de mantenimiento como archivar todos los viernes las tareas de la semana en una lista creada ad hoc…) y otras que están limitadas por la versión gratuita. Sin embargo no las incluimos en este curso dado que excede de su duración y de su funcionamiento básico. Tiempo habrá de investigarlas cuando pasen las premuras que nos ocupan.
 
-#### Participantes en los tableros {#participantes-en-los-tableros}
+#### Participantes en los tableros 
 
-El acceso por invitación para participar (que no para observar) tiene dos fases: la invitación![](images/image37.png)
+El acceso por invitación para participar (que no para observar) tiene dos fases: la invitación.
+![](images/image37.png)
 
 La aceptación de la invitación recibida por correo electrónico.
 
-También es posible invitar mediante enlace enviando nosotros mismos el correo. Esta opción es interesante cuando algún miembro invitado por el método anterior tiene problemas de acceso al reconocer su dirección de correo como registrado sin aceptar.
-
-![](images/image30.png)
+También es posible **invitar mediante enlace** enviando nosotros mismos el correo. Esta opción es interesante cuando algún miembro invitado por el método anterior tiene problemas de acceso al reconocer su dirección de correo como registrado sin aceptar.
 
 La situación ideal es que el personal al que vayamos a invitar esté registrado previamente en Trello, así que si lo vamos a usar en nuestro centro, es preferible que el profesorado se registre antes de compartir nuestros tableros.
+
+![](images/image30.png)
