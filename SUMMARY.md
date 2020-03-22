@@ -26,6 +26,5 @@
 
 ## Módulo 4: Comunicación y trabajo colaborativo con TEAMs
 
-* [Organiza una reunión con tu clase con TEAMs](organiza-una-reunion-con-tu-clase-con-teams.md)
 * [Créditos](creditos.md)
 
