@@ -25,3 +25,6 @@
 * [Teams: Configuración de nuestro usuario.](teams_configuracion_de_nuestro_usuario.md)
 * [Para saber más:](para_saber_mas.md)
 
+---
+
+* [Créditos](creditos.md)
