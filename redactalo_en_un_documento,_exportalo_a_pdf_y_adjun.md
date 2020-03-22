@@ -1,1 +1,0 @@
-## Redáctalo en un documento, expórtalo a pdf y adjúntalo como resultado de la tarea. {#red-ctalo-en-un-documento-exp-rtalo-a-pdf-y-adj-ntalo-como-resultado-de-la-tarea}
