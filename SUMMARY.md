@@ -23,8 +23,9 @@
 * [Teams: Estructura de los equipos](teams_estructura_de_los_equipos.md)
 * [Teams: Conectores y Aplicaciones](teams_conectores_y_aplicaciones.md)
 * [Teams: Configuración de nuestro usuario.](teams_configuracion_de_nuestro_usuario.md)
-* [Para saber más:](para_saber_mas.md)
 
----
+## Módulo 4: Comunicación y trabajo colaborativo con TEAMs
 
 * [Créditos](creditos.md)
+* [Organiza una reunión con tu clase con TEAMs](organiza-una-reunion-con-tu-clase-con-teams.md)
+

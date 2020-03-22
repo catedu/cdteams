@@ -1,24 +1,23 @@
 ## Cómo solicitarlo {#c-mo-solicitarlo}
 
-Lo primero que necesitaremos para comenzar a trabajar con TEAMS es **comprobar que el centro tiene una cuenta para TEAMS**.
+TEAMS es una de las apps del entorno Microsoft Office 365, por lo que para comenzar a trabajar en este entorno necesitaremos, al menos, una cuenta con licencia Microsoft Office 365.
 
-_Pregunta a tu equipo directivo y si no tenéis cuenta de centro, los pasos a dar serían los siguientes:
-_
+Podemos encontrarnos en una de las siguientes situaciones
 
-1.  _Si el centro no dispone de cuenta o id Microsoft_ (tenant), **deberá solicitarla** a Hiberus (partner Microsoft) a través de **compras@hiberus.com**, a la vez que indicar cuántas cuentas solicita para profesorado y para alumnado.
+**Mi centro ya tiene una cuenta de centro Microsoft Office 365 **\(dominio @micentro.onmicrosoft.com\). En este caso, saltamos esta página y continuamos el curso en la siguiente. 
 
-2.  Desde Hiberus crearán la cuenta de centro y le enviarán los datos de la cuenta administradora del centro.
+**Mi centro NO tiene una cuenta de centro Microsoft Office 365.** En este caso, podremos continuar el curso con la cuenta Microsoft  Office 365 asociada a las cuentas personales de correo electrónico corporativo @educa.aragon.es o bien, solicitar una cuenta de centro a través del partner de Microsoft \(compras@hiberus.com\) que, de manera gratuita, creará una cuenta de centro con licencias Microsoft Office 365 A1, junto con un número de licencias para profesorado y alumnado. En este caso, **previa comunicación al equipo directivo de tu centro educativo**, será necesario que enviéis a compras@hiberus.com la siguiente información:
 
-3.  El centro deberá designar una persona que se encargue de las tareas de administración del entorno MS Office 365 en el centro. [^1]
+* Nombre, dirección y teléfono del centro educativo para el que solicitáis la cuenta.
 
-4.  Desde la **cuenta de administrador del centro** será posible crear(registrar) tanto las cuentas de profesorado como de alumnado que sean necesarias. Todas serán de tipo de licenciamiento Office 365 A1\. Tendrán formato usuario@centroedu.onmicrosoft.com. Es posible hacer cargas masivas de cuentas utilizando csv. [^2]
+* Número de licencias para profesorado \(las que creáis oportunas\)
 
-5.  Desde ese momento, podrá usarse tanto la app de videoconferencia (TEAMs) como la ofimática en la nube, accediendo desde portal.office.com
+* Número de licencias para alumnado \(las que creáis oportunas\)
+* Nombre, apellidos y correo electrónico de la persona que llevará su administración. \(De momento cada uno de vosotros, pero puede asignarse a otra persona más adelante\). 
 
-[^1:] En esta convocatoria urgente de Marzo de 2020, los tres primeros pasos los vamos a hacer centralizándolos a través de tu tutor o tutora del curso, que te pedirán estos datos en la primera tarea de este módulo.
+Desde la **cuenta de administrador del centro** será posible crear\(registrar\) tanto las cuentas de profesorado como de alumnado que sean necesarias. Todas serán de tipo de licenciamiento Office 365 A1. Tendrán formato usuario@centroedu.onmicrosoft.com. Es posible hacer cargas masivas de cuentas utilizando csv.
 
-[^2:] Para el profesorado, aunque ya tengan una cuenta asociada con su correo de @educa.aragon.es, se le creará una nueva asociada a la cuenta de su centro, ya que la anterior pertenece a una licencia de campus (Gobierno de Aragón) por lo que ése es su ámbito y no permite restringirlo a centro.
-
-Lo siguiente que necesitarás es ponerte en contacto con la persona administradora de la cuenta de tu centro educativo. Te solicitará que completes un documento (csv) con tus datos y los de tu alumnado, con el que vas a trabajar a través de TEAMS, para la creación de todas sus cuentas.
+En la primera tarea de este módulo verás que se te va a preguntar por cual de estas opciones es con la que vas a trabajar durante este curso, para centralizar el trámite para quienes tengáis que hacer una nueva solicitud. 
 
 En cuanto tengamos las cuentas de todas las personas participantes, ya podemos comenzar.
+
