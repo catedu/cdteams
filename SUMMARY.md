@@ -26,5 +26,13 @@
 
 ## Módulo 4: Comunicación y trabajo colaborativo con TEAMs
 
+* [Introducción](READMEm4.md)
+* [4.1 Organiza una reunión con tu clase con TEAMs](organiza_una_reunion.md)
+* [4.2 Cómo mantener una conversación privada con TEAMs](conversacion_privada_teams.md)
+* [4.3 Gestión de tareas con TEAMs](gestion_tareas.md)
+* [4.4 Cómo compartir un formulario en un Equipo o en un Canal](compartir_formulario_equipo_o_canal.md)
+* [4.5 Cómo compartir un vídeo en un Equipo o en un Canal](compartir_video_equipo_o_canal.md)
+* [Para saber más](para_saber_mas_teams.md)
+
 * [Créditos](creditos.md)
 
