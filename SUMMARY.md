@@ -12,6 +12,7 @@
 * [Introducción](READMEM2.md)
 * [Unidad 1. Slack. ](unidad_1_slack.md)
 * [Unidad 2: Trello](unidad_2_trello.md)
+* [Unidad 3. Jitsi](unidad-3-jitsi.md)
 
 ## Módulo 3: Conocemos y creamos nuestras aulas a distancia con Teams
 
@@ -33,6 +34,5 @@
 * [4.4 Cómo compartir un formulario en un Equipo o en un Canal](compartir_formulario_equipo_o_canal.md)
 * [4.5 Cómo compartir un vídeo en un Equipo o en un Canal](compartir_video_equipo_o_canal.md)
 * [Para saber más](para_saber_mas_teams.md)
-
 * [Créditos](creditos.md)
 
