@@ -89,7 +89,7 @@ Un buen acompañamiento para una sesión de Jamboard puede ser un chat de voz co
 
 ![](images/image24.png)
 
-Una vez que nos hemos dado de alta, podemos nuestro canal e invitar a la participación mediante URL.
+Una vez que nos hemos dado de alta, podemos crear nuestro canal e invitar a la participación mediante URL.
 
 Se trata de un programa con muchas más prestaciones interesantes, pues permite crear categorías e, incluso, compartir archivos o mostrar el escritorio con sus aplicaciones,, pero eso ya sería objeto de una formación más larga.
 
