@@ -17,7 +17,4 @@ Podemos encontrarnos en una de las siguientes situaciones
 
 Desde la **cuenta de administrador del centro** será posible crear\(registrar\) tanto las cuentas de profesorado como de alumnado que sean necesarias. Todas serán de tipo de licenciamiento Office 365 A1. Tendrán formato usuario@centroedu.onmicrosoft.com. Es posible hacer cargas masivas de cuentas utilizando csv.
 
-En la primera tarea de este módulo verás que se te va a preguntar por cual de estas opciones es con la que vas a trabajar durante este curso, para centralizar el trámite para quienes tengáis que hacer una nueva solicitud. 
-
-En cuanto tengamos las cuentas de todas las personas participantes, ya podemos comenzar.
-
+En la primera tarea de este módulo verás que se te va a preguntar por cual de estas opciones es con la que vas a trabajar durante este curso.
