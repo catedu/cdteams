@@ -374,6 +374,9 @@ Slack también permite realizar video llamadas. Podemos contactar con otros miem
 Para ello, debemos seleccionar al usuario con el que se quiere comunicar, y en la parte superior del chat, hacer clic en el icono de videollamada (icono teléfono). Hacemos clic sobre él y observaremos una pantalla para hacer varias acciones:
 
 ![](images/image92.png)
+En esta imagen hay una errata de ortigrafía: "hactivar" con H. 
+![](images/image92.png)
+![](images/image92.png)
 
 Para acabar, si utilizas Slack en tu navegador web, puedes ver las pantallas compartidas de tus compañeros de equipo, pero no puedes compartir tu propia pantalla. Para compartirla, necesitarás pasarte a la aplicación de Slack para Mac o Windows.
 
